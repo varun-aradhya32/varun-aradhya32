@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun</h1>
-<h3 align="center">I’m dedicated to creating inclusive, accessible applications that empower everyone, believing that technology should help people connect and succeed, not create obstacles.</h3>
+<h3 align="center">I’m dedicated to creating inclusive, accessible applications that empower everyone, believing that technology should help people connect and succeed, not create obstacles</h3>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-website-khaki-ten.vercel.app/](https://portfolio-website-khaki-ten.vercel.app/)
 
